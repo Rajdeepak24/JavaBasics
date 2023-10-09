@@ -3,7 +3,8 @@ import java.util.HashMap;
 public class HashTableInJava {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		// TODO Auto-generated method stubz
 		System.out.println("iuyfc");
 		
 //		HashMap<Integer, Integer> has = new HashMap<Integer,Integer>();

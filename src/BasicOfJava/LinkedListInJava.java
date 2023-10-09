@@ -26,7 +26,7 @@ public class LinkedListInJava {
 		arr.removeFirst();
 		System.out.println(arr);
 //		
-//		
+//		asasa
 //		System.out.println("*******\"using for loop \"**********");
 //		for (int i = 0; i<arr.size();i++) {
 //			System.out.println(arr.get(i));

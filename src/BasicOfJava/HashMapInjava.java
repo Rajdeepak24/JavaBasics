@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class HashMapInjava {
 
 	public static void main(String[] args) {
+		//here rs
 		// TODO Auto-generated method stub
 	  	ArrayList<Integer> am =  new ArrayList<Integer>();
 	  	am.add(20);

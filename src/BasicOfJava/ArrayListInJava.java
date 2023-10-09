@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class ArrayListInJava {
 
 	public static void main(String[] args) {
+		//here rs
 		// TODO Auto-generated method stub
 		ArrayList  arr =  new ArrayList();
 	      arr.add("2");
