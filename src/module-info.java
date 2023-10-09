@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Rajzz
+ *
+ */
+module JavaClass {
+}
